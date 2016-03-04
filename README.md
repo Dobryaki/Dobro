@@ -1,2 +1,0 @@
-# Dobro
-Stoletov's project
